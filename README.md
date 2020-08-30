@@ -5,7 +5,7 @@
 - Actual time needed to complete: 2h
 
 ## Pull Request Link:
-- https://github.com/salehmmasri/chess-board/pull/1
+- https://github.com/salehmmasri/chess-board/pull/2
 
 ## Note:
 - I worked on this lab with AZIZ as pair programing
